@@ -3,4 +3,5 @@ Projeto de um aplicativo que exibe uma lista rolável de texto e imagens usando 
 
 
 Add a scrollable list.
+
 Criar uma Grade de cursos.
